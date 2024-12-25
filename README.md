@@ -1,2 +1,2 @@
 # RESTful API
-Simple CRUD Project
+Simple CRUD Django Project
